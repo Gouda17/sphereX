@@ -1,1 +1,1 @@
-GeneratorExit
+print("hi my name is hazem")
